@@ -1,7 +1,17 @@
-## Hi there 👋
+# Hi there, I'm MakoHwak! 😄
+
+Welcome to my GitHub profile! Nice to meet you 👋
+<br/>
+I'm a beginner programmer currently learning PHP and Laravel. I'm excited to build new things!
+
+## 💻 Languages & Frameworks
+![](https://skillicons.dev/icons?i=php,laravel)
+
+## 🔧 Tools & Platforms
+![](https://skillicons.dev/icons?i=linux,git,github,docker,figma)
 
 <!--
-**makohawk/makohawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yuto299/Yuto299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
