@@ -1,4 +1,4 @@
-# Hi there, I'm MakoHwak! 😄
+# Hi there, I'm MakoHawk! 😄
 
 Welcome to my GitHub profile! Nice to meet you 👋
 <br/>
